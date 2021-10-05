@@ -1,2 +1,2 @@
-def squared(x):
-  print("square is ",x*x)
+def squaredUp(x):
+  print("square is updated ",x*x)
